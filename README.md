@@ -12,7 +12,7 @@ A simple GUI voting system for IPL teams using Python, Tkinter, and ttkbootstrap
 Follow these steps to install and run the project:
 
 ```sh
-git clone https://github.com/YOUR-USERNAME/IPL-Voting-System.git
+git clone https://github.com/mani123qwe/ipl_voting_system.git
 cd IPL-Voting-System
 pip install -r requirements.txt
 python ipl_voting.py
