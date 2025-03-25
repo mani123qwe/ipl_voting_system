@@ -17,5 +17,5 @@ cd IPL-Voting-System
 pip install -r requirements.txt
 python ipl_voting.py
 ## 📸 Screenshot  
-![Voting System UI](screenshot.png)
+![Voting System UI](Screenshot.png)
 
