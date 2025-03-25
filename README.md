@@ -16,3 +16,6 @@ git clone https://github.com/mani123qwe/ipl_voting_system.git
 cd IPL-Voting-System
 pip install -r requirements.txt
 python ipl_voting.py
+## 📸 Screenshot  
+![Voting System UI](screenshot.png)
+
