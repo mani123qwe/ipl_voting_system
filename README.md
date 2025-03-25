@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🏏 IPL Team Voting System
 
-<!--
-**mani123qwe/mani123qwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A simple GUI voting system for IPL teams using Python, Tkinter, and ttkbootstrap.
 
-Here are some ideas to get you started:
+## 🎯 Features
+✅ User authentication via registration numbers  
+✅ Vote for IPL teams (CSK, MI, RCB, KKR, LSG)  
+✅ Beautiful UI with ttkbootstrap theme  
+✅ Automatic result display when voting completes  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Installation
+Follow these steps to install and run the project:
+
+```sh
+git clone https://github.com/YOUR-USERNAME/IPL-Voting-System.git
+cd IPL-Voting-System
+pip install -r requirements.txt
+python ipl_voting.py
